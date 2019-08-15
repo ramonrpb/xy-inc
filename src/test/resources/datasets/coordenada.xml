@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+	<COORDENADA ID="1" NOME="Lanchonete" X="27" Y="12" />
+	<COORDENADA ID="2" NOME="Posto" X="31" Y="18" />
+	<COORDENADA ID="3" NOME="Joalheria" X="15" Y="12" />
+	<COORDENADA ID="4" NOME="Floricultura" X="19" Y="21" />
+	<COORDENADA ID="5" NOME="Pub" X="12" Y="8" />
+	<COORDENADA ID="6" NOME="Supermercado" X="23" Y="2" />
+	<COORDENADA ID="7" NOME="Churrascaria" X="28" Y="2" />
+
+</dataset>
